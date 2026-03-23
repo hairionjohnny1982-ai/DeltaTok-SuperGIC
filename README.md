@@ -2,7 +2,8 @@
 # DeltaTok SuperGIC 🇧🇪
 
 ## Novel tokenizer beating tiktoken on French, English and Code
-
+⚠️ This repository showcases results only.  
+Code and algorithm are proprietary.
 **Author** : Aque
 **Contact** : aquej@hotmail.com 
 
@@ -57,7 +58,13 @@ GIC : score = [proprietary formula]
 > futur de mon chemin de ma vie..."
 
 ---
+## Status
 
+🔄 Training in progress  
+📊 Current loss : 2.90 (step 4000 / 3,000,000)  
+🎯 Target : loss < 2.5 (coherent French generation)
+
+---
 ## Contact
 
 Interested ?  
