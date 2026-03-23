@@ -1,5 +1,5 @@
 
-# DeltaTok SuperGIC 🇫🇷
+# DeltaTok SuperGIC 🇧🇪
 
 ## Novel tokenizer beating tiktoken on French, English and Code
 
