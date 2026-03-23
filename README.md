@@ -3,8 +3,8 @@
 
 ## Novel tokenizer beating tiktoken on French, English and Code
 
-**Author** : [Ton nom] — [ton@email.com]  
-**Contact** : Pour collaboration/licensing → ton@email.com
+**Author** : Aque
+**Contact** : aquej@hotmail.com 
 
 ---
 
