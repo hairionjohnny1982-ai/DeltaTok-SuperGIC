@@ -15,7 +15,7 @@ tokenization algorithm that replaces BPE frequency score
 with conditional entropy reduction.
 
 BPE : score = frequency(A, B)
-GIC : score = ΔH × log(len+1) × log(freq+1)
+GIC : score = [proprietary formula]
 
 → Merges what is most PREDICTIVE instead of most FREQUENT
 
